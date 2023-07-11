@@ -66,6 +66,15 @@ Once having that, we have computed the promotion effectiveness backward-looking.
 Please, find here the notebook: [Part 5 - Promotion Strategy](Part_5-Promotion_Strategy.ipynb)
 
 
+## :bar_chart: Interactive Dashboard
+
+With the aim of adding more value to the user, and as we have already prepared and analyzed the data, being able to interpret results and to identify data from which analysis the user will benefit, **we have created an interactive dashboard** which has the goal to enable informed Decision-Making by providing a holistic view of sales performance, supporting strategic decision-making based on real, actionable insights. Dashboard includes:
+- **High-Level KPI Tracking**: Top-line KPIs like total sales in value, sales in units and in volume. These metrics give the user a quick snapshot of the business health.
+- **Sales Trends**: The dashboard presents both historical and current sales trends to help user identify patterns, seasonality, and potential growth opportunities.
+- **Product Performance**: Data on best-selling products and underperforming products are, or strategic decisions regarding product portfolio management.
+- **Forecasting**: Sales projections based on historical data and market trends
+
+Please, find here the link to the dashboard: [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzljMzA4ZmYtOTc0ZS00YjQ5LWJhZTUtYTVlOTY4YTAyZDNhIiwidCI6IjczNDU4NDQzLTE2MjctNDA5MS04YjM5LTIyMjIxMzQ5MDdjNSIsImMiOjh9)
 
 
 ## :penguin: Authors
