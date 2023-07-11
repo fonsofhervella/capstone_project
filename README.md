@@ -74,7 +74,7 @@ With the aim of adding more value to the user, and as we have already prepared a
 - **Product Performance**: Data on best-selling products and underperforming products are, or strategic decisions regarding product portfolio management.
 - **Forecasting**: Sales projections based on historical data and market trends
 
-Please, find here the link to the dashboard: [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzljMzA4ZmYtOTc0ZS00YjQ5LWJhZTUtYTVlOTY4YTAyZDNhIiwidCI6IjczNDU4NDQzLTE2MjctNDA5MS04YjM5LTIyMjIxMzQ5MDdjNSIsImMiOjh9)
+Please, find here the link to the dashboard: [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjMxYTRjMmMtOTU1Ni00ODQwLWFjNWEtMmY3ZmQ0MDE4YmUxIiwidCI6IjczNDU4NDQzLTE2MjctNDA5MS04YjM5LTIyMjIxMzQ5MDdjNSIsImMiOjh9)
 
 
 ## :penguin: Authors
